@@ -1,5 +1,5 @@
-# Internship Project Submission – AI Development
-This repository contains two AI-based projects:
+# Internship Project Submission – Python Development
+This repository contains two projects:
 
 ## Task 1 – Predictive Text Generator
 ➡️ NLP  
