@@ -1,0 +1,10 @@
+hello how are you today
+hello how is your day going
+machine learning is fun
+machine learning helps build smart applications
+i love programming in python
+i love creating new projects
+python is a powerful language
+python makes automation easy
+welcome to the predictive text generator
+this project uses a bigram model for prediction
